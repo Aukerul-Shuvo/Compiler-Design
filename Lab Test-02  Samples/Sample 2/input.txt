@@ -1,0 +1,7 @@
+float b = 10.0;
+char c = ‘c’;
+int a = b+c;
+
+
+
+
